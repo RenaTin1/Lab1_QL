@@ -10,7 +10,7 @@ namespace LabNumber1
     {
         static void Main(string[] args)
         {
-            //LAB NUMBER 1---- Serena Tindle
+            //LAB NUMBER 1 _QL 9/2017---- Serena Tindle
 
             bool ContinueProgram = true; //Boolean Expression
 
@@ -36,7 +36,7 @@ namespace LabNumber1
                 
                 if (UserOption == "N")
                 {
-                    ContinueProgram = false;
+                    ContinueProgram = false; //end loop
                 }
        
                 Console.ReadKey();
